@@ -1,2 +1,2 @@
-# esp32-pbhub
-M5Stack PB-HUB C Driver
+# ESP32-PBHUB driver
+
